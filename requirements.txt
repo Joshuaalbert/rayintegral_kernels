@@ -1,0 +1,6 @@
+numpy
+tensorflow==1.14
+scipy
+mkl
+matplotlib
+astropy
