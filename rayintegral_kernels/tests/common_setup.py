@@ -28,7 +28,7 @@ def tf_session(tf_graph):
 
 @pytest.fixture
 def project_location():
-    return os.path.dirname(sys.modules["gaia_deprojection"].__file__)
+    return os.path.dirname(sys.modules["rayintegral_kernels"].__file__)
 
 
 @pytest.fixture
