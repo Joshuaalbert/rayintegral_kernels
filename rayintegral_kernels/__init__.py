@@ -6,6 +6,7 @@ logging.set_verbosity(logging.INFO)
 
 ###
 # constants
+KERNEL_SCALE = 0.1 #(1e9*1e3*1e-16*1e3)
 
 ###
 # depreciated decorator

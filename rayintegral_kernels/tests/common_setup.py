@@ -1,7 +1,7 @@
 import os
 import sys
 
-from .. import logging
+from .. import logging, float_type
 import numpy as np
 import pytest
 import tensorflow as tf
